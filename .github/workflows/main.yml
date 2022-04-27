@@ -13,4 +13,4 @@ jobs:
       with:
         server: 91.200.103.154
         username: innocen1
-        password: ${{ FTP_SECRET }}
+        password: secrets.FTP_SECRET
