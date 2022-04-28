@@ -17,7 +17,7 @@ body {
     width: 100%;
     max-width: 100%;
     box-shadow: none;
-    background-color: #FC466B;
+    background-color: #24292E;
     position: fixed;
     height: 60px!important;
     overflow: hidden;
@@ -50,7 +50,7 @@ body {
     margin-top: 60px;
     transform: translateX(-250px);
     transition: transform 250ms ease-in-out;
-    background: linear-gradient(180deg, #FC466B 0%, #3F5EFB 100%);
+    background: linear-gradient(180deg, #24292E 0%, #24293F 100%);
 }
 .sidebarMenuInner{
     margin:0;
