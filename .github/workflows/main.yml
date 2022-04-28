@@ -14,3 +14,4 @@ jobs:
         server: 91.200.103.154
         username: innocen1
         password: ${{ secrets.FTP_SECRET }}
+        server-dir: /tygra/
