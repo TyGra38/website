@@ -1,1 +1,4 @@
-// nothing in there *yet
+function copyTag(name) {
+    var tag = name
+    tag.copy();
+}
